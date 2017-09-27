@@ -18,11 +18,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyanOPhillips/portfolio-site.git"
+    "url": "git+https://github.com/RyanOPhillips/NoahSite.git"
   },
   "bugs": {
-    "url": "https://github.com/RyanOPhillips/portfolio-site/issues"
+    "url": "https://github.com/RyanOPhillips/NoahSite.git/issues"
   },
-  "homepage": "https://github.com/RyanOPhillips/portfolio-site#readme",
+  "homepage": "https://github.com/RyanOPhillips/NoahSite.git#readme",
   "description": ""
 }
